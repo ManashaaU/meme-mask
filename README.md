@@ -37,9 +37,5 @@ Your creativity deserves a spotlight, and MemeMask is that spotlight.
 
 ---
 ## LIVE DEMO
+👉 click here :[Demo](https://drive.google.com/file/d/1UvajSJaXmgr9E0BBXOAuHke-ewlS6I8y/view?usp=sharing)
 
-
----
-
-## 📜 License
-MIT License — because memes are meant to be free.
