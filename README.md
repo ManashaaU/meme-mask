@@ -1,11 +1,11 @@
 # meme-mask
-the app where your humor gets to shine without filters, logins, or boring forms.   No email. No password. Just vibes.
+the app where your humor gets to shine without filters, logins, or boring forms.   No email. No password. *Just vibes*.
 
 
 # 😂 MemeMask
 
 Welcome to **MemeMask** — the app where your humor gets to shine without filters, logins, or boring forms.  
-No email. No password. Just vibes. ✨
+✨ UNLEASH YOUR INNER MEME LORDS
 
 ---
 
@@ -17,10 +17,11 @@ Think of it as a **mask party for memes**: everyone’s anonymous, everyone’s 
 
 ## 🚀 Features
 - 🖼️ Upload memes instantly
-- 🌙 Dark mode toggle (because memes look better at night)
-- 👍 Rate memes with humor points
-- 🎉 Random usernames for extra fun
+- 👍 Rate memes 
+- 🎉 Find a community which loves memes
 - 🔥 A feed that’s always ready for your creativity
+- ☺️ Find your tribe
+- created using replit
 
 ---
 
@@ -30,7 +31,7 @@ Check it out here:
 
 ---
 
-## 🎯 Why MemeMask?
+## 🎯 Why MemeMask ?
 Because the internet needs more places where humor rules.  
 This isn’t about likes, followers, or clout — it’s about **pure meme energy**.  
 Your creativity deserves a spotlight, and MemeMask is that spotlight.
