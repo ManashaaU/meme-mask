@@ -37,6 +37,6 @@ This isn’t about likes, followers, or clout — it’s about **pure meme energ
 Your creativity deserves a spotlight, and MemeMask is that spotlight.
 
 ---
-## LIVE DEMO
+## RECORDED VIDEO
 👉 click here :[Demo](https://drive.google.com/file/d/1UvajSJaXmgr9E0BBXOAuHke-ewlS6I8y/view?usp=sharing)
 
